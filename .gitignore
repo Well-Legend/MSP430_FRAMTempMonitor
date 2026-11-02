@@ -1,0 +1,13 @@
+build/
+Debug/
+Release/
+*.obj
+*.out
+*.map
+*.d
+*.d_raw
+*_linkInfo.xml
+.cache/
+.metadata/
+__pycache__/
+.DS_Store

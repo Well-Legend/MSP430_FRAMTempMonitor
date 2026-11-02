@@ -1,0 +1,20 @@
+{
+  "source_workspace": "MSP-430_NVM",
+  "device": "MSP430FR4133",
+  "compiler_version": "21.6.1.LTS",
+  "source_preserved_without_behavior_changes": true,
+  "original_screenshots": [
+    "image8.png",
+    "image9.png",
+    "image10.png",
+    "image11.png",
+    "image12.png",
+    "image13.png",
+    "image14.png",
+    "image15.png",
+    "image16.png",
+    "image17.png",
+    "image18.jpeg"
+  ],
+  "original_report": "Lab2_114522096.docx"
+}

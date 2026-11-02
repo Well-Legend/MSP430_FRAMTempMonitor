@@ -1,0 +1,15 @@
+{
+  "date": "2026-11-02",
+  "compiler": "TI MSP430 Code Generation Tools 21.6.1.LTS",
+  "device": "MSP430FR4133",
+  "compiled_c_files": 24,
+  "compile_and_link": "passed",
+  "output_format": "TI ELF .out",
+  "output_bytes": 56884,
+  "output_sha256": "bb39692b2b475090f36dd600423f0b55f9d5b4f897c48ac24b35be271ada9ae8",
+  "source_behavior_modified": false,
+  "hardware_connected": false,
+  "hardware_flashed": false,
+  "power_loss_test_rerun": false,
+  "ccs_project_xml": "parsed successfully"
+}
